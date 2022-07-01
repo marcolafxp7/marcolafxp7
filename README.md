@@ -7,3 +7,4 @@
 - 🌱 I’m currently learning a programar recentemente as linguagens javaScript e Scratch.
 - 💞️ I’m looking to collaborate on  pensamento computacional.
 - 📫 How to reach me
+-![tenor](https://user-images.githubusercontent.com/108071490/176905637-fa7fed04-d78c-4456-a66f-cda963400d76.gif)
